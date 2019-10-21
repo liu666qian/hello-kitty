@@ -1,2 +1,3 @@
 # hello-kitty
-just another repository
+Hi humans!
+My name is liuqian , hello everyone!
